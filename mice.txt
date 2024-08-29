@@ -1,6 +1,9 @@
 m mighty  
 o outside
 u under 
+m mammal
+o optical
+u unique
 s small
 e endive
 
