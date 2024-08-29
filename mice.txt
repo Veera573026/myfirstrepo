@@ -1,5 +1,6 @@
-m mammal
+m mighty  
 o outside
-u USB
+u under 
 s small
-e eager
+e endive
+
