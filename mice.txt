@@ -1,5 +1,12 @@
+ HEAD
 m mighty 
 o outside
 u under 
 s small
 e endive 
+m mammal
+o optical
+u unique 
+s small
+e eager
+
