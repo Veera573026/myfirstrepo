@@ -1,4 +1,4 @@
 # myfirstrepo
 my first project
 t Iam Veera I live in Maryville I would like to visit Kansas city
-And explore the city
+And explore the city and many new places.
